@@ -1,5 +1,7 @@
 <img width="1366" height="338" alt="3" src="https://github.com/user-attachments/assets/37766f06-ce13-430e-a894-ffb5ba391254" />
 <img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/945b5b56-79ea-4954-ba0f-5af5eaa1dc46" />
+
+## Add Customer
 <img width="939" height="501" alt="11" src="https://github.com/user-attachments/assets/81a8c003-4346-4b25-86c1-16c61b0e23c6" />
 <img width="1366" height="768" alt="12" src="https://github.com/user-attachments/assets/f60ab3d2-9ff0-4c26-a13d-812d163c6081" />
 <img width="936" height="561" alt="13" src="https://github.com/user-attachments/assets/562f6387-b900-4e22-8c07-c94763b88ceb" />
