@@ -17,3 +17,9 @@
 
 ## Delete Customer by id
 <img width="940" height="269" alt="17" src="https://github.com/user-attachments/assets/88af3bea-b6d0-4777-9671-3d28d3eb50db" />
+
+## Search by Name
+<img width="939" height="427" alt="18" src="https://github.com/user-attachments/assets/58ec1f09-3dfb-479f-890c-646034380d1a" />
+
+## Search by Phone Number
+<img width="941" height="426" alt="19" src="https://github.com/user-attachments/assets/3a2415b3-9094-41c0-80c4-a7c0859bc0c7" />
