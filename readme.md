@@ -10,6 +10,10 @@
 
 ## Get specific customer by id
 <img width="939" height="403" alt="14" src="https://github.com/user-attachments/assets/3efb47f9-8c7a-49bb-8947-12cee5fe6dfc" />
+
+## Update any customer by id
 <img width="933" height="486" alt="15" src="https://github.com/user-attachments/assets/8553839d-64ad-4658-8aa6-1b21e28b4fb6" />
 <img width="939" height="565" alt="16" src="https://github.com/user-attachments/assets/a549618e-231b-42f8-96b1-213d6cb94219" />
+
+## Delete Customer by id
 <img width="940" height="269" alt="17" src="https://github.com/user-attachments/assets/88af3bea-b6d0-4777-9671-3d28d3eb50db" />
