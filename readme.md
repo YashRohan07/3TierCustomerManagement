@@ -4,7 +4,11 @@
 ## Add Customer
 <img width="939" height="501" alt="11" src="https://github.com/user-attachments/assets/81a8c003-4346-4b25-86c1-16c61b0e23c6" />
 <img width="1366" height="768" alt="12" src="https://github.com/user-attachments/assets/f60ab3d2-9ff0-4c26-a13d-812d163c6081" />
+
+## Get all customer
 <img width="936" height="561" alt="13" src="https://github.com/user-attachments/assets/562f6387-b900-4e22-8c07-c94763b88ceb" />
+
+## Get specific customer by id
 <img width="939" height="403" alt="14" src="https://github.com/user-attachments/assets/3efb47f9-8c7a-49bb-8947-12cee5fe6dfc" />
 <img width="933" height="486" alt="15" src="https://github.com/user-attachments/assets/8553839d-64ad-4658-8aa6-1b21e28b4fb6" />
 <img width="939" height="565" alt="16" src="https://github.com/user-attachments/assets/a549618e-231b-42f8-96b1-213d6cb94219" />
